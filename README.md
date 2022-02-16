@@ -25,11 +25,11 @@ https://docs.github.com/en/rest
 https://developer.spotify.com/documentation/web-api/
 
 Task list:
-[] Create listing page (showing several results)
-[] Create a detail page (showing a single result)
-[] Add a link to your github repository to the project footer or header
-[] Host your app in any platform you like (vercel, netfly, etc.)
-[] Create a nice readme file explaining your project and add some instruction on how to run your project locally
+- [] Create listing page (showing several results)
+- [] Create a detail page (showing a single result)
+- [] Add a link to your github repository to the project footer or header
+- [] Host your app in any platform you like (vercel, netfly, etc.)
+- [] Create a nice readme file explaining your project and add some instruction on how to run your project locally
 
 
 ## Rules
